@@ -7,9 +7,9 @@
 	 */
 	$config = array(
 		'Facebook' => array(
-			'appId' => '393258000722626',
-			'apiKey' => '393258000722626',
-			'secret' => 'b4c7004c9095637baa5e5155ee2463db',
+			'appId' => 'apid',
+			'apiKey' => 'apikey',
+			'secret' => 'secret',
 			'cookie' => true,
 			'userModel' => 'MyPlugin.MyUserModel'
 		)
